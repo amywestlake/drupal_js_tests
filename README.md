@@ -1,6 +1,6 @@
 # Functional JS Testing for Drupal
 
-There are (https://www.drupal.org/docs/develop/automated-testing/types-of-tests)[different levels of testing], this repo only tests JS within Drupal UI.
+There are [different levels of testing](https://www.drupal.org/docs/develop/automated-testing/types-of-tests) within Drupal, this repo only tests functional UI.
 
 ## Installation
 
