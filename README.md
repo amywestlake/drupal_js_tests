@@ -13,7 +13,7 @@ In the root, create a .env file with the following details:
 ```
 USERNAME=your_drupal_username
 PASSWORD=your_drupal_password
-BASE_URL=https://uat_or_staging_domain.digital/
+BASE_URL=https://uat_or_staging_core_cms_domain.digital/
 ```
 
 > TO DO: create a dedicated test user?
